@@ -1,2 +1,4 @@
-# Chimney_Smoke_Detection
-煙囪辨識
+功能:
+    
+    1.手動畫偵測區域
+    2.對偵測區域最
