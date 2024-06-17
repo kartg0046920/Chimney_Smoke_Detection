@@ -6,7 +6,10 @@
     4.對偵測區域的像素值做平均，辨識是否有排煙。偵測框為綠色表示沒有排煙，偵測框為黃色表示排白煙，偵測框為紅色表示排黑煙
     5.偵測區域儲存、讀取和影片儲存
     6.實測結果請參考影片和圖片
+    
 
 
 
 
+![white_smoke_detection](https://github.com/kartg0046920/Chimney_Smoke_Detection/assets/65480821/d3e605f7-0578-4d10-b97c-6e7fd0311d24)
+![black_smoke_detection](https://github.com/kartg0046920/Chimney_Smoke_Detection/assets/65480821/33ac2ae1-d8c6-4a5d-85a4-3fc69c09870a)
