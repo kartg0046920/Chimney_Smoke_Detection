@@ -8,5 +8,5 @@
     6.實測結果請參考影片和圖片
 
 
-https://github.com/kartg0046920/Chimney_Smoke_Detection/assets/65480821/35d78b19-d3d2-4ded-8e62-57a39ee66438
+
 
