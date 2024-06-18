@@ -11,5 +11,6 @@
 
 
 
-![white_smoke_detection](https://github.com/kartg0046920/Chimney_Smoke_Detection/assets/65480821/d3e605f7-0578-4d10-b97c-6e7fd0311d24)
+![white_smoke_detection](https://github.com/kartg0046920/Chimney_Smoke_Detection/assets/65480821/52d8d54b-b6a9-4f2c-9c83-3eac9c2db90e)
+
 ![black_smoke_detection](https://github.com/kartg0046920/Chimney_Smoke_Detection/assets/65480821/33ac2ae1-d8c6-4a5d-85a4-3fc69c09870a)
